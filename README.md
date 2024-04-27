@@ -1,2 +1,3 @@
-# blog
+# Cool Blog
+
 A blog!
