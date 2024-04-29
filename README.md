@@ -1,3 +1,3 @@
 # Cool Blog
 
-A blog!
+A blog for Juniper!
