@@ -1,3 +1,3 @@
 # Cool Blog
 
-A blog for Juniper!
+A epic blog made with HTML, CSS, JavaScript, and Flask!
