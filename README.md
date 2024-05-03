@@ -1,3 +1,3 @@
 # Cool Blog
 
-A epic blog made with HTML, CSS, JavaScript, and Flask!
+A epic blog made with HTML, CSS, JavaScript, Tailwind, and Flask!
